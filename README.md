@@ -1,4 +1,3 @@
-# sistemanexus-5s1s
 <h1>Sistema de gestión de información para Nexus Coaching &amp; Consultoría</h1>
 
 <ul>Elaborado por:
