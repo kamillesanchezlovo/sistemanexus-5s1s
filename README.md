@@ -5,3 +5,5 @@
 <li>Br. Leslie Alegna Gónzalez Rodríguez (2021-0714I)</li> 
 <li>Br. Bryan Jesús Jirón Vallejo (2021-0084I)</li> 
 </ul>
+
+Cambiamos de repositorio a: https://github.com/kamillesanchezlovo/proyecto_consultoria_5s1-s
